@@ -1,0 +1,482 @@
+[
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 150,
+    "accuracy": 88.5,
+    "wpm": 22,
+    "date": "2026-04-01T08:15:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 180,
+    "accuracy": 90.2,
+    "wpm": 25,
+    "date": "2026-04-01T09:30:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 210,
+    "accuracy": 92.5,
+    "wpm": 28,
+    "date": "2026-04-01T11:45:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 240,
+    "accuracy": 94.1,
+    "wpm": 31,
+    "date": "2026-04-01T14:20:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 200,
+    "accuracy": 89.0,
+    "wpm": 26,
+    "date": "2026-04-01T16:10:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 225,
+    "accuracy": 91.8,
+    "wpm": 29,
+    "date": "2026-04-01T18:55:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 260,
+    "accuracy": 95.5,
+    "wpm": 33,
+    "date": "2026-04-02T08:05:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 275,
+    "accuracy": 96.2,
+    "wpm": 35,
+    "date": "2026-04-02T10:15:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 290,
+    "accuracy": 97.8,
+    "wpm": 38,
+    "date": "2026-04-02T12:40:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 305,
+    "accuracy": 98.5,
+    "wpm": 40,
+    "date": "2026-04-02T15:20:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 100,
+    "accuracy": 66.67,
+    "wpm": 8,
+    "date": "2026-04-02T02:55:04.256"
+  },
+  {
+    "username": "TestUser",
+    "difficulty": "EASY",
+    "score": 30,
+    "accuracy": 50.0,
+    "wpm": 5,
+    "date": "2026-04-02T02:45:15.195"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 320,
+    "accuracy": 99.1,
+    "wpm": 42,
+    "date": "2026-04-03T09:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 190,
+    "accuracy": 87.4,
+    "wpm": 24,
+    "date": "2026-04-03T11:20:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 215,
+    "accuracy": 91.0,
+    "wpm": 27,
+    "date": "2026-04-03T13:45:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 245,
+    "accuracy": 93.3,
+    "wpm": 30,
+    "date": "2026-04-03T16:15:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 265,
+    "accuracy": 94.8,
+    "wpm": 34,
+    "date": "2026-04-03T18:40:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 285,
+    "accuracy": 96.9,
+    "wpm": 37,
+    "date": "2026-04-03T20:30:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 310,
+    "accuracy": 98.2,
+    "wpm": 41,
+    "date": "2026-04-03T22:10:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "EASY",
+    "score": 330,
+    "accuracy": 99.5,
+    "wpm": 44,
+    "date": "2026-04-03T23:55:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 1000,
+    "accuracy": 95.0,
+    "wpm": 75,
+    "date": "2026-04-01T12:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 950,
+    "accuracy": 94.0,
+    "wpm": 72,
+    "date": "2026-04-01T13:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 900,
+    "accuracy": 93.5,
+    "wpm": 70,
+    "date": "2026-04-01T17:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 850,
+    "accuracy": 92.0,
+    "wpm": 68,
+    "date": "2026-04-01T20:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 800,
+    "accuracy": 90.5,
+    "wpm": 65,
+    "date": "2026-04-01T22:30:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 45,
+    "accuracy": 60.0,
+    "wpm": 4,
+    "date": "2026-04-02T02:28:57.771"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 880,
+    "accuracy": 92.8,
+    "wpm": 69,
+    "date": "2026-04-02T09:15:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 920,
+    "accuracy": 94.2,
+    "wpm": 71,
+    "date": "2026-04-02T11:40:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 960,
+    "accuracy": 95.8,
+    "wpm": 74,
+    "date": "2026-04-02T14:10:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 980,
+    "accuracy": 96.5,
+    "wpm": 76,
+    "date": "2026-04-02T16:50:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 1010,
+    "accuracy": 97.2,
+    "wpm": 78,
+    "date": "2026-04-02T19:20:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 1030,
+    "accuracy": 98.0,
+    "wpm": 80,
+    "date": "2026-04-02T21:45:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 1050,
+    "accuracy": 98.8,
+    "wpm": 82,
+    "date": "2026-04-03T08:30:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 870,
+    "accuracy": 91.5,
+    "wpm": 67,
+    "date": "2026-04-03T10:45:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 890,
+    "accuracy": 92.4,
+    "wpm": 69,
+    "date": "2026-04-03T13:10:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 915,
+    "accuracy": 93.8,
+    "wpm": 71,
+    "date": "2026-04-03T15:35:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 945,
+    "accuracy": 95.1,
+    "wpm": 73,
+    "date": "2026-04-03T18:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 975,
+    "accuracy": 96.4,
+    "wpm": 76,
+    "date": "2026-04-03T20:20:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 1005,
+    "accuracy": 97.9,
+    "wpm": 79,
+    "date": "2026-04-03T22:45:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "MEDIUM",
+    "score": 1040,
+    "accuracy": 99.2,
+    "wpm": 83,
+    "date": "2026-04-03T23:50:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1200,
+    "accuracy": 98.5,
+    "wpm": 85,
+    "date": "2026-04-01T10:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1150,
+    "accuracy": 97.2,
+    "wpm": 82,
+    "date": "2026-04-01T11:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1100,
+    "accuracy": 96.5,
+    "wpm": 80,
+    "date": "2026-04-01T16:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1050,
+    "accuracy": 95.8,
+    "wpm": 78,
+    "date": "2026-04-01T19:00:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1250,
+    "accuracy": 99.0,
+    "wpm": 88,
+    "date": "2026-04-01T21:30:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1180,
+    "accuracy": 97.5,
+    "wpm": 84,
+    "date": "2026-04-02T08:30:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1220,
+    "accuracy": 98.2,
+    "wpm": 86,
+    "date": "2026-04-02T10:50:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1300,
+    "accuracy": 99.4,
+    "wpm": 92,
+    "date": "2026-04-02T13:20:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1350,
+    "accuracy": 99.8,
+    "wpm": 95,
+    "date": "2026-04-02T15:45:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1100,
+    "accuracy": 95.5,
+    "wpm": 79,
+    "date": "2026-04-02T18:10:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1160,
+    "accuracy": 97.0,
+    "wpm": 83,
+    "date": "2026-04-02T20:35:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1210,
+    "accuracy": 98.4,
+    "wpm": 87,
+    "date": "2026-04-02T22:50:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1400,
+    "accuracy": 100.0,
+    "wpm": 100,
+    "date": "2026-04-03T09:15:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1120,
+    "accuracy": 96.0,
+    "wpm": 81,
+    "date": "2026-04-03T11:40:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1190,
+    "accuracy": 97.8,
+    "wpm": 85,
+    "date": "2026-04-03T14:05:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1260,
+    "accuracy": 98.9,
+    "wpm": 89,
+    "date": "2026-04-03T16:30:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1320,
+    "accuracy": 99.3,
+    "wpm": 93,
+    "date": "2026-04-03T18:55:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1380,
+    "accuracy": 99.7,
+    "wpm": 98,
+    "date": "2026-04-03T21:20:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1450,
+    "accuracy": 100.0,
+    "wpm": 105,
+    "date": "2026-04-03T23:15:00.000"
+  },
+  {
+    "username": "sample_user",
+    "difficulty": "HARD",
+    "score": 1500,
+    "accuracy": 100.0,
+    "wpm": 110,
+    "date": "2026-04-03T23:59:00.000"
+  }
+]
